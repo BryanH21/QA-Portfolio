@@ -1,8 +1,8 @@
 # Google Login, Test Cases
 
-## TC001: Verify Succesful Login with Valid Credentials (Positive Test Case)
+## TC001: Verify Successful Login with Valid Credentials (Positive Test Case)
 
-| Field | Detials |
+| Field | Details |
 | --- | --- |
 | **Test Case ID** | TC001 |
 | **Title** | Verify successful login with valid credentials on Google |
@@ -14,7 +14,7 @@
 
 ## TC002: Verify Failed login with wrong credentials on Google (Negative Test Case)
 
-| Field | Detials |
+| Field | Details |
 | --- | --- |
 | **Test Case ID** | TC002 |
 | **Title** | Verify Failed login with wrong credentials on Google |
@@ -26,7 +26,7 @@
 
 ## TC003: Verify failed login with no credentials on Google (Negative Test Case)
 
-| Field | Detials |
+| Field | Details |
 | --- | --- |
 | **Test Case ID** | TC003 |
 | **Title** | Verify failed login with no credentials on Google |
