@@ -4,7 +4,7 @@
 
 | Field | Detials |
 | --- | --- |
-| ** Test Case ID** | TC001 |
+| **Test Case ID** | TC001 |
 | **Title** | Verify successful login with valid credentials on Google |
 | **Preconditions** | User has a registered account. Browser is open to login page. |
 | **Steps** | 1. Enter valid email in the email field. 2. Click Next. 3. Enter valid password on the password screen. 4. Click Next. |
@@ -16,7 +16,7 @@
 
 | Field | Detials |
 | --- | --- |
-| ** Test Case ID** | TC002 |
+| **Test Case ID** | TC002 |
 | **Title** | Verify Failed login with wrong credentials on Google |
 | **Preconditions** | User has a registered account. Browser is open to login page. |
 | **Steps** | 1. Enter valid email in the email field. 2. Click Next. 3. Enter invalid password on the password screen. 4. Click Next. |
@@ -28,7 +28,7 @@
 
 | Field | Detials |
 | --- | --- |
-| ** Test Case ID** | TC003 |
+| **Test Case ID** | TC003 |
 | **Title** | Verify failed login with no credentials on Google |
 | **Preconditions** | Browser is open to login page. |
 | **Steps** | 1. Leave the email field blank. 2. Click Next. |
